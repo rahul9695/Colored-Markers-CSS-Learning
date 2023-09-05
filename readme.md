@@ -3,6 +3,10 @@ https://rahul9695.github.io/Colored-Markers-CSS-Learning/index.html
 
 # Explanation
 
+<img width="430" alt="Screenshot 2023-09-05 131014" src="https://github.com/rahul9695/Colored-Markers-CSS-Learning/assets/120627949/338ae82a-45e1-4049-9b39-bf2f4d3b7d96">
+<img width="455" alt="Screenshot 2023-09-05 131049" src="https://github.com/rahul9695/Colored-Markers-CSS-Learning/assets/120627949/4111ceb3-a1d1-4d38-9e76-90407980d22e">
+
+
 | Selector       | Property-Value Pairs                                   | Explanation                                              |
 | -------------- | ------------------------------------------------------ | -------------------------------------------------------- |
 | `h1`           | `text-align`: center;                                 | Centers text alignment for `h1` elements.               |
